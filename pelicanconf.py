@@ -15,7 +15,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = './temp/pelican-themes/graymill/'                # Nice & Simple
+THEME = './pelican-themes/graymill/'                # Nice & Simple
 # THEME = './temp/pelican-themes/waterspill/'              # Nice but images too wide
 # THEME = './temp/pelican-themes/jojo/'                    # NOK
 # THEME = './temp/pelican-themes/fresh'                    # NOK
