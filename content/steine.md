@@ -5,7 +5,6 @@ Category: Basteln
 
 ## Steine bemalen
 
-Überall im Garten verteilt finden wir leckeres Unkraut.
+INHALT & BILDER hinzufügen
 
-![Erdbeer](images/20250602_165900.jpg)
-..war aber in 5min verputzt :-D
+![Steine](#)
