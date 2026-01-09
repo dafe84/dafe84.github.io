@@ -16,6 +16,6 @@ Die Flaschen hatten wir bei 100°C für 10min im Backofen.
 
 3l feinster Holunderblüten Sirup
 
-![Sirup](images/20250601_200224.jpg)
+![Sirup](images/holunder/20250601_200224.jpg)
 
 ..bemalt mit Neocolor/Wachsmalstifte (bei noch heissen Flaschen)

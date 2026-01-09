@@ -1,6 +1,6 @@
 .PHONY: venv
 
-PYTHON_VERSION?= python3.12
+PYTHON_VERSION?= python3.13
 venv:
 	$(PYTHON_VERSION) -m venv .venv
 	source .venv/bin/activate && pip install --upgrade pip && pip install -r requirements.txt

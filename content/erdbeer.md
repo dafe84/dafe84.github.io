@@ -7,5 +7,5 @@ Category: Garten
 
 Überall im Garten verteilt finden wir leckeres Unkraut.
 
-![Erdbeer](images/20250602_165900.jpg)
+![Erdbeer](images/erdbeer/20250602_165900.jpg)
 ..war aber in 5min verputzt :-D

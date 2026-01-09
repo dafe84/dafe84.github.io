@@ -3,15 +3,33 @@
 
 # Getting started
 
+How to publish the **./contnt/** folder
+
+
 ## setup venv & install dependencies
 `make venv`
+`source .venv/bin/activate`
+
 
 ## create site
 -> add markdown file to */content*
 `m̀ake html`
 
+
+## test site
+
+`make devserver`
+
+
 ## publish site
 `m̀ake github`
+
+-> see deployments page for progress https://github.com/dafe84/dafe84.github.io/deployments/github-pages
+
+-> page available at https://dafe84.github.io/
+
+
+
 
 
 
